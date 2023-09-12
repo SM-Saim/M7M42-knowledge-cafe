@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/L06FXxB/galaxy.jpg",
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "author_img": "https://i.ibb.co/VNtmHj6/Douglas-adams-portrait-cropped.jpg",
+    "posted_date": "2023-09-12",
+    "posted_time": "19:00:00",
+    "reading_time": "4 hours",
+    "hastags": ["science fiction", "comedy", "adventure"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/Hgbf75h/rings.png",
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "author_img": "https://i.ibb.co/S3YBwc4/Tolkein.jpg",
+    "posted_date": "2023-09-13",
+    "posted_time": "10:00:00",
+    "reading_time": "12 hours",
+    "hastags": ["fantasy", "adventure", "epic"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/PNR9bJK/293051-the-hunger-games-wallpapers-the-hunger-games-26975706-1280-800-1280x800-h.jpg",
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "author_img": "https://i.ibb.co/JjYZTNG/Suzanne-Collins-2012.webp",
+    "posted_date": "2023-09-14",
+    "posted_time": "11:00:00",
+    "reading_time": "6 hours",
+    "hastags": ["dystopian", "science fiction", "young adult"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/vjctDwG/to-kill-mockingbird-logo-2-1200x821.jpg",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "author_img": "https://i.ibb.co/7bdgMd0/harper.jpg",
+    "posted_date": "2023-09-15",
+    "posted_time": "12:00:00",
+    "reading_time": "4 hours",
+    "hastags": ["classic", "coming-of-age", "racism"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/HHmMXkX/alchemist.jpg",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "author_img": "https://i.ibb.co/HpdMkVr/paulo-coelho-favorite-quotes.jpg",
+    "posted_date": "2023-09-16",
+    "posted_time": "13:00:00",
+    "reading_time": "3 hours",
+    "hastags": ["self-help", "inspirational", "spirituality"]
+  }
+]
